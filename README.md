@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [todolist](https://github.com/dogukanbayrak/todolist)
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java** and **Unity**
 
 - 📫 How to reach me **dogukanbayrak6767@gmail.com**
 
