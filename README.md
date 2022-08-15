@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Doğukan</h1>
-<h3 align="center">A passionate game developer from Turkey. I'm interested in Unity. Also I'm avaible for remote Game developer position</h3>
+<h3 align="center">A passionate game developer from Turkey. I'm interested in Unity. </br>
+  Also I'm avaible for remote Game developer position</h3>
 
 <p align="left"> <a href="https://twitter.com/dogukannbayrak" target="blank"><img src="https://img.shields.io/twitter/follow/dogukannbayrak?logo=twitter&style=for-the-badge" alt="dogukannbayrak" /></a> </p>
 
