@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/dogukannbayrak" target="blank"><img src="https://img.shields.io/twitter/follow/dogukannbayrak?logo=twitter&style=for-the-badge" alt="dogukannbayrak" /></a> </p>
 
-- 🔭 I’m currently working on my 3D game project [Never Stop Running](https://github.com/dogukanbayrak/Never-Stop-Running)
+- 🔭 I’m currently working on my 3D game project [Zig Zag](https://github.com/dogukanbayrak/Zig-zag)
 
 - 🌱 I’m currently learning  **Unity**
 
