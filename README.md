@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on my 3D game project [Zig Zag](https://github.com/dogukanbayrak/Zig-zag)
+- 🔭 I’m currently working at [Vessac Game Studios]([https://github.com/dogukanbayrak/Zig-zag](https://www.linkedin.com/company/vessac-gamestudios/))
 
 - 🌱 I’m currently learning  **Unity**
 
